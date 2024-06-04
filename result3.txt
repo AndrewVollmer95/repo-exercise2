@@ -1,1 +1,2 @@
 first difficult lab for coursera almost finished
+git push
